@@ -31,7 +31,7 @@ A RESTful API for managing books and authors, built with **Express.js 5**, **Dri
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/express-book-store.git
+git clone https://github.com/Samal-Biswajit/express-book-store.git
 cd express-book-store
 ```
 
